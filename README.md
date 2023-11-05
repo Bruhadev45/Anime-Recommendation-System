@@ -1,5 +1,5 @@
 # Anime Recommendation System
-How It Works
+# How It Works
 The system takes advantage of the following key components:
 
 User Ratings Data: It utilizes user-generated ratings for various anime titles. This data is used to understand individual preferences.
