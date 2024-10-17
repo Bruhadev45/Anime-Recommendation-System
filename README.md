@@ -47,3 +47,4 @@ The system will then display a list of anime titles that it believes you might f
 ## Author
 
 This Anime Recommendation System was created by Bruhadev. If you have any questions, suggestions, or feedback, please feel free to reach out.
+**GitHub Notebook**: [Anime Recommendation System with GUI](https://nbviewer.org/github/Bruhadev45/Anime-Recommendation-System/blob/main/With%20GUI.ipynb)
